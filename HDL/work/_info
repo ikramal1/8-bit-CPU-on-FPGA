@@ -1,0 +1,367 @@
+m255
+K3
+13
+cModel Technology
+dC:\FPGA-Labs\TP4_Commande des Feux d un Carrefour
+Ealu
+Z0 w1768243473
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\8_bit_CPU_on_FPGA\HDL
+Z5 8C:/8_bit_CPU_on_FPGA/HDL/ALU.vhd
+Z6 FC:/8_bit_CPU_on_FPGA/HDL/ALU.vhd
+l0
+L5
+VelR_nS>mOF=BnTeNcc11T0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1768294722.782000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/HDL/ALU.vhd|
+Z10 !s107 C:/8_bit_CPU_on_FPGA/HDL/ALU.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 iBeWKgo8:PBa=C6b9J76:0
+!i10b 1
+Artl
+R1
+R2
+R3
+DEx4 work 3 alu 0 22 elR_nS>mOF=BnTeNcc11T0
+l19
+L17
+VC?Rc:`QnD^XZ`R[4ea55^2
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 3J`;m?]gIj5683L]d:@0U3
+!i10b 1
+Ealu_tb
+Z13 w1768153714
+R2
+R3
+R4
+Z14 8C:/8_bit_CPU_on_FPGA/Testbench/alu_tb.vhd
+Z15 FC:/8_bit_CPU_on_FPGA/Testbench/alu_tb.vhd
+l0
+L4
+Vc0W:CJhW2QgS=olEX?j7e1
+R7
+32
+Z16 !s108 1768294723.025000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/Testbench/alu_tb.vhd|
+Z18 !s107 C:/8_bit_CPU_on_FPGA/Testbench/alu_tb.vhd|
+R11
+R12
+!s100 ;dB_OgekF]g6XVFPRUX`Y0
+!i10b 1
+Atb
+R2
+R3
+DEx4 work 6 alu_tb 0 22 c0W:CJhW2QgS=olEX?j7e1
+l29
+L7
+VhZli?N8mhh`<h_WcOUfaV3
+R7
+32
+R16
+R17
+R18
+R11
+R12
+!s100 BX=U]Dle=P0C;aFHjSJIg2
+!i10b 1
+Eir
+Z19 w1768389128
+R2
+R3
+R4
+Z20 8C:/8_bit_CPU_on_FPGA/HDL/IR.vhd
+Z21 FC:/8_bit_CPU_on_FPGA/HDL/IR.vhd
+l0
+L5
+VMLTRh==AiYFLEWOMSFO6R0
+!s100 5[jb05K0N9AbXcONg;F=X1
+R7
+32
+!i10b 1
+Z22 !s108 1768389139.552000
+Z23 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/HDL/IR.vhd|
+Z24 !s107 C:/8_bit_CPU_on_FPGA/HDL/IR.vhd|
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 2 ir 0 22 MLTRh==AiYFLEWOMSFO6R0
+l18
+L16
+VF`2RKmS[6cmejA=08f3162
+!s100 J`nFWACYG3O@jZSF7ga5J2
+R7
+32
+!i10b 1
+R22
+R23
+R24
+R11
+R12
+Emar
+Z25 w1768173624
+R2
+R3
+R4
+Z26 8C:/8_bit_CPU_on_FPGA/HDL/mar.vhd
+Z27 FC:/8_bit_CPU_on_FPGA/HDL/mar.vhd
+l0
+L5
+Vzm<@GmEAjC<YL<C>j@L[^0
+R7
+32
+Z28 !s108 1768294723.234000
+Z29 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/HDL/mar.vhd|
+Z30 !s107 C:/8_bit_CPU_on_FPGA/HDL/mar.vhd|
+R11
+R12
+!s100 WW=1J4_?9GjKHZ9MaXfTU3
+!i10b 1
+Abehave
+R2
+R3
+DEx4 work 3 mar 0 22 zm<@GmEAjC<YL<C>j@L[^0
+l20
+L16
+VNY2K@`TRd0b_4?Bd71oBW3
+R7
+32
+R28
+R29
+R30
+R11
+R12
+!s100 H;Oc9gk8PPb5=2L84K4lk1
+!i10b 1
+Emar_mem_tb
+Z31 w1768304290
+R1
+R2
+R3
+R4
+Z32 8C:/8_bit_CPU_on_FPGA/Testbench/mar_mem_tb.vhd
+Z33 FC:/8_bit_CPU_on_FPGA/Testbench/mar_mem_tb.vhd
+l0
+L5
+V>m3FZ4cJJFD9[35NI=c`Z0
+R7
+32
+Z34 !s108 1768388896.212000
+Z35 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/Testbench/mar_mem_tb.vhd|
+Z36 !s107 C:/8_bit_CPU_on_FPGA/Testbench/mar_mem_tb.vhd|
+R11
+R12
+!s100 VTVoi^QafV@[@ALNj8B2_2
+!i10b 1
+Atb
+R1
+R2
+R3
+DEx4 work 10 mar_mem_tb 0 22 >m3FZ4cJJFD9[35NI=c`Z0
+l49
+L8
+VS8i^ESfPzbFM13AW^n4Wd0
+R7
+32
+R34
+R35
+R36
+R11
+R12
+!s100 <_^9RcL^VNNmTX0@jVd@S0
+!i10b 1
+Emem
+Z37 w1768253410
+Z38 DPx4 ieee 16 std_logic_textio 0 22 ?Il0a149GV276[?[UMDWh2
+R1
+R2
+R3
+R4
+Z39 8C:/8_bit_CPU_on_FPGA/HDL/memory.vhd
+Z40 FC:/8_bit_CPU_on_FPGA/HDL/memory.vhd
+l0
+L8
+VD?h^V?18IKbV[J?SQcL6V3
+R7
+32
+Z41 !s108 1768294723.435000
+Z42 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/HDL/memory.vhd|
+Z43 !s107 C:/8_bit_CPU_on_FPGA/HDL/memory.vhd|
+R11
+R12
+!s100 XnU3_;VR;BU7V5ALzaGbO1
+!i10b 1
+Abehave
+R38
+R1
+R2
+R3
+DEx4 work 3 mem 0 22 D?h^V?18IKbV[J?SQcL6V3
+l50
+L19
+VonIo;Q;271WC1YbjYGCFQ2
+R7
+32
+R41
+R42
+R43
+R11
+R12
+!s100 QDVTFU1?W_Z8JjE_5^1H=2
+!i10b 1
+Epc
+Z44 w1768242972
+Z45 DPx4 ieee 15 std_logic_arith 0 22 4`Y?g_lkdn;7UL9IiJck01
+Z46 DPx4 ieee 18 std_logic_unsigned 0 22 RYmj;=TK`k=k>D@Cz`zoB3
+R2
+R3
+R4
+Z47 8C:/8_bit_CPU_on_FPGA/HDL/PC.vhd
+Z48 FC:/8_bit_CPU_on_FPGA/HDL/PC.vhd
+l0
+L5
+VQG^M1U>=Fzgz[]4noVBjS3
+R7
+32
+Z49 !s108 1768294721.831000
+Z50 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/HDL/PC.vhd|
+Z51 !s107 C:/8_bit_CPU_on_FPGA/HDL/PC.vhd|
+R11
+R12
+!s100 7mhnL3T=g>JKYY]@9lU^:1
+!i10b 1
+Aarchi
+R45
+R46
+R2
+R3
+DEx4 work 2 pc 0 22 QG^M1U>=Fzgz[]4noVBjS3
+l20
+L16
+V88zSFTLG<P=CTT>cea4AV2
+R7
+32
+R49
+R50
+R51
+R11
+R12
+!s100 eMYM@U;=zfba1JnOfZA2;3
+!i10b 1
+Epc_tb
+Z52 w1768083293
+R2
+R3
+R4
+Z53 8C:/8_bit_CPU_on_FPGA/Testbench/pc_tb.vhd
+Z54 FC:/8_bit_CPU_on_FPGA/Testbench/pc_tb.vhd
+l0
+L4
+V:GAR>Af[5CEnONNnCfP@[1
+R7
+32
+Z55 !s108 1768294722.172000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/Testbench/pc_tb.vhd|
+Z57 !s107 C:/8_bit_CPU_on_FPGA/Testbench/pc_tb.vhd|
+R11
+R12
+!s100 H4Kb[0IU6`z=WnZ4bgS2E1
+!i10b 1
+Atb
+R2
+R3
+DEx4 work 5 pc_tb 0 22 :GAR>Af[5CEnONNnCfP@[1
+l31
+L7
+VKNQd]_8f>>>GR@k[69Q841
+R7
+32
+R55
+R56
+R57
+R11
+R12
+!s100 b3d3=c>Efb9mKad2:27h01
+!i10b 1
+Ereg
+Z58 w1768128256
+R2
+R3
+R4
+Z59 8C:/8_bit_CPU_on_FPGA/HDL/register.vhd
+Z60 FC:/8_bit_CPU_on_FPGA/HDL/register.vhd
+l0
+L5
+V@Ec_EX9^07JF9M3184=^V0
+R7
+32
+Z61 !s108 1768294722.377000
+Z62 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/HDL/register.vhd|
+Z63 !s107 C:/8_bit_CPU_on_FPGA/HDL/register.vhd|
+R11
+R12
+!s100 diC1m]WF8XOOF3SZh;dZC3
+!i10b 1
+Abehave
+R2
+R3
+DEx4 work 3 reg 0 22 @Ec_EX9^07JF9M3184=^V0
+l20
+L16
+V0_n?2GXLA9gQcL3Qhgzca2
+R7
+32
+R61
+R62
+R63
+R11
+R12
+!s100 FU^?L7e^2^Nen3K`bM]6i0
+!i10b 1
+Ereg_tb
+Z64 w1768135172
+R2
+R3
+R4
+Z65 8C:/8_bit_CPU_on_FPGA/Testbench/register_tb.vhd
+Z66 FC:/8_bit_CPU_on_FPGA/Testbench/register_tb.vhd
+l0
+L4
+V@Pa=TGB<D>OKj?oISeUn`0
+R7
+32
+Z67 !s108 1768294722.570000
+Z68 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/8_bit_CPU_on_FPGA/Testbench/register_tb.vhd|
+Z69 !s107 C:/8_bit_CPU_on_FPGA/Testbench/register_tb.vhd|
+R11
+R12
+!s100 b>W?JoWiL30l]1E[N?]2P1
+!i10b 1
+Aarchi
+R2
+R3
+DEx4 work 6 reg_tb 0 22 @Pa=TGB<D>OKj?oISeUn`0
+l23
+L7
+V[F]7a:B25L=WAZ47A2;d[3
+R7
+32
+R67
+R68
+R69
+R11
+R12
+!s100 ]6zc=XQ>3BP:PNh:lLzbP3
+!i10b 1

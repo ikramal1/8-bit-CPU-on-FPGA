@@ -1,0 +1,85 @@
+C:/8_bit_CPU_on_FPGA/Testbench/pc_tb.vhd {1 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/Testbench/pc_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pc_tb
+-- Compiling architecture tb of pc_tb
+
+} {} {}} C:/8_bit_CPU_on_FPGA/HDL/mar.vhd {1 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/HDL/mar.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity mar
+-- Compiling architecture behave of mar
+
+} {} {}} C:/8_bit_CPU_on_FPGA/HDL/register.vhd {1 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/HDL/register.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg
+-- Compiling architecture behave of reg
+
+} {} {}} C:/8_bit_CPU_on_FPGA/HDL/memory.vhd {2 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/HDL/memory.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Loading package std_logic_textio
+-- Compiling entity mem
+-- Compiling architecture behave of mem
+** Warning: C:/8_bit_CPU_on_FPGA/HDL/memory.vhd(30): (vcom-1283) Cannot reference file "file_data" inside pure function "init".
+
+** Warning: C:/8_bit_CPU_on_FPGA/HDL/memory.vhd(37): (vcom-1283) Cannot reference file "file_data" inside pure function "init".
+
+** Warning: C:/8_bit_CPU_on_FPGA/HDL/memory.vhd(38): (vcom-1283) Cannot reference file "file_data" inside pure function "init".
+
+** Warning: C:/8_bit_CPU_on_FPGA/HDL/memory.vhd(44): (vcom-1283) Cannot reference file "file_data" inside pure function "init".
+
+
+} {} {}} C:/8_bit_CPU_on_FPGA/Testbench/register_tb.vhd {1 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/Testbench/register_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity reg_tb
+-- Compiling architecture archi of reg_tb
+
+} {} {}} C:/8_bit_CPU_on_FPGA/HDL/ALU.vhd {1 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/HDL/ALU.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity alu
+-- Compiling architecture rtl of alu
+
+} {} {}} C:/8_bit_CPU_on_FPGA/HDL/IR.vhd {1 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/HDL/IR.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ir
+-- Compiling architecture rtl of ir
+
+} {} {}} C:/8_bit_CPU_on_FPGA/Testbench/mar_mem_tb.vhd {1 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/Testbench/mar_mem_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Loading package NUMERIC_STD
+-- Compiling entity mar_mem_tb
+-- Compiling architecture tb of mar_mem_tb
+
+} {} {}} C:/8_bit_CPU_on_FPGA/Testbench/alu_tb.vhd {1 {vcom -work work -2002 -explicit C:/8_bit_CPU_on_FPGA/Testbench/alu_tb.vhd
+Model Technology ModelSim ALTERA vcom 10.1d Compiler 2012.11 Nov  2 2012
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity alu_tb
+-- Compiling architecture tb of alu_tb
+
+} {} {}}
